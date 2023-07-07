@@ -16,7 +16,7 @@ The HTML webpage in this repository displays the following information:
 
 ## Usage
 
-To view the webpage and access your bio information, follow these steps:
+To view the webpage and access my bio information, follow these steps:
 
 1. Clone the repository using the following command:
 
